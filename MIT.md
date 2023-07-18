@@ -1,0 +1,6 @@
+ Copyright 2023, Surafel Chaka,Nouman Wali 
+Permission is hereby granted, free of charge, to any person obtaining a copy of this Portfolio_Mobile_and_Desktop_version and associated documentation files, to deal in the Portfolio_Mobile_and_Desktop_version without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Portfolio_Mobile_and_Desktop_version, and to permit persons to whom the Portfolio_Mobile is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Portfolio_Mobile_and_Desktop_version
+
+THE Portfolio_Mobile_and_Desktop_version IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE Portfolio_Mobile OR THE USE OR OTHER DEALINGS IN THE Portfolio_Mobile_and_Desktop_version.
