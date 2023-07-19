@@ -1,0 +1,6 @@
+.cbanner-section {
+  background-image: url('images/header-3.png');
+  height: 100vh;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
